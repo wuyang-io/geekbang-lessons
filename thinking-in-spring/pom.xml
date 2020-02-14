@@ -24,7 +24,7 @@
         <spring.version>5.2.2.RELEASE</spring.version>
     </properties>
 
-    <!-- Spring 依赖管理 -->
+    <!-- Spring 依赖 管理 -->
     <dependencyManagement>
         <dependencies>
             <dependency>
